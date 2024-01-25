@@ -6,4 +6,4 @@ The HTML exercises were pretty straight forward. Utilizing the class resources (
 
 ### Accessibility
 
-Enter your reflections on this section here.
+The a11y tasks were relativelt straightforward, some of the form led me to fix some issues on the html ativity.
