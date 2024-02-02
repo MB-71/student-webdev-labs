@@ -2,3 +2,12 @@
   width: 600px;
   margin: 40px auto;
 }
+
+p::first-letter { /*pseudo element */
+  font-size: 3em;
+}
+
+p:hover { /*psuedo class */
+  background-color: lightskyblue;
+}
+
