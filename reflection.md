@@ -14,3 +14,9 @@ Learned a lot about CSS specifics that I was not necessarily familiar with. How 
 
 ### Flexbox
 
+Need more practice easily identifying what flex direction I would need to use in the exercises. Very useful information in regards to flex and how things are anchored.
+
+### Grid
+
+Intersting in the different CSS layout for grids, not something that I would have initially thought of (mostly in regards to grid-areas).
+
