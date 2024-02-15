@@ -6,4 +6,11 @@ The HTML exercises were pretty straight forward. Utilizing the class resources (
 
 ### Accessibility
 
-The a11y tasks were relativelt straightforward, some of the form led me to fix some issues on the html ativity.
+The a11y tasks were relatively straightforward, some of the form led me to fix some issues on the html ativity.
+
+### CSS
+
+Learned a lot about CSS specifics that I was not necessarily familiar with. How specific elements and items can be stylized is interesting. I felt I would get somewhat lost on some of the heirarchies in attempting to change a specific item.
+
+### Flexbox
+
