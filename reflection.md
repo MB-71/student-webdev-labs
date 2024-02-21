@@ -20,3 +20,13 @@ Need more practice easily identifying what flex direction I would need to use in
 
 Intersting in the different CSS layout for grids, not something that I would have initially thought of (mostly in regards to grid-areas).
 
+### Bootstrap
+
+It seems convienient to have everything bootstrapped and not have custom elements. For a side project, I made custom elements throughout the website, utilizing different
+style sheets and utilizing pages.
+
+### js
+
+Still new to javascript, so the functions inside methods is somewhat new to me. I think my side project website was spaghetti code of js and html. Will have to revisit and adjust
+it utilizing a better understanding.
+
