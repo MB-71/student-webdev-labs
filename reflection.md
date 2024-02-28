@@ -27,6 +27,7 @@ style sheets and utilizing pages.
 
 ### js
 
-Still new to javascript, so the functions inside methods is somewhat new to me. I think my side project website was spaghetti code of js and html. Will have to revisit and adjust
-it utilizing a better understanding.
+Still new to javascript, so the functions inside methods is somewhat new to me. I think my side project website was spaghetti code of js and html. Will have to revisit and adjust it utilizing a better understanding.
+
+## jQuery
 
