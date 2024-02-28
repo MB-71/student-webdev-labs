@@ -29,5 +29,6 @@ style sheets and utilizing pages.
 
 Still new to javascript, so the functions inside methods is somewhat new to me. I think my side project website was spaghetti code of js and html. Will have to revisit and adjust it utilizing a better understanding.
 
-## jQuery
+### jQuery
 
+The jQuery use seems really great to simplify alot of the javascript code that was previously written. Looking forwards to implementing more of it.
