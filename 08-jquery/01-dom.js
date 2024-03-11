@@ -2,9 +2,9 @@
 // When the user clicks the 'copy' button, copy the user input to the output area
 
 // jquery- 3 lines
-$('document').ready(() => {
-  $('#copy').on('click', (event) => {
-    $('#output1').text($('#userInput1').val());
+$("document").ready(() => {
+  $("#copy").on("click", (event) => {
+    $("#output1").text($("#userInput1").val());
   });
 });
 

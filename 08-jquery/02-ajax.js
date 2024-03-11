@@ -1,17 +1,16 @@
-$('document').ready(() => {
+$("document").ready(() => {
   const url = "https://anapioficeandfire.com/api/books/";
 
   const addBookToDOM = (item) => {
-    
     console.log(item.name);
 
     $("#books").append(
       $("<div>")
         .css({
-          display: 'flex',
-          flexDirection: 'column',
-          alignItems:'center',
-          marginTop: '20px',
+          display: "flex",
+          flexDirection: "column",
+          alignItems: "center",
+          marginTop: "20px",
         })
         .append($("<h3>").text(item.name))
         .append($("<p>").text(item.authors[0]))
@@ -32,14 +31,15 @@ $('document').ready(() => {
 
       error: (error) => {
         console.error(error);
-        $('#books').append($('<div>').text(`An error occured. Please try again.`)
-    )},
+        $("#books").append(
+          $("<div>").text(`An error occured. Please try again.`)
+        );
+      },
 
       complete: () => {
-        $('#loading').remove();
+        $("#loading").remove();
       },
     });
   };
   fetchData(url);
 });
-
